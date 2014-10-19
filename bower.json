@@ -10,8 +10,7 @@
     "globals"
   ],
   "dependencies": {
-    "angular": ">=1.2.0",
-    "adobeDPS": ""
+    "angular": ">=1.2.0"
   },
   "keywords": [
     "angular",
