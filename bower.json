@@ -1,10 +1,10 @@
 {
-  "name": "ngdps-librarystore",
-  "version": "0.1.0",
+  "name": "ngdps.librarystore",
+  "version": "0.1.2",
   "authors": [
     "Richard Brammer <richard.brammer@geildanke.com>"
   ],
-  "description": "A service wrapper for AdobeLibraryAPI to be used in angular apps. http://www.adobe.com/devnet-docs/digitalpublishingsuite/DPSViewerSDK-2.32/docs/library/index.html",
+  "description": "A service wrapper for AdobeLibraryAPI.js to be used in angular apps. http://www.adobe.com/devnet-docs/digitalpublishingsuite/DPSViewerSDK-2.32/docs/library/index.html",
   "main": "ngdps.librarystore.js",
   "moduleType": [
     "globals"

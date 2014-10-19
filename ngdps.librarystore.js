@@ -1,7 +1,7 @@
 /* global angular */
-angular.module('ngdps-librarystore', []);
+angular.module('ngdps.librarystore', []);
 
-angular.module('ngdps-librarystore').factory('adobeDPS', ['$window', function ($window) {
+angular.module('ngdps.librarystore').factory('adobeDPS', ['$window', function ($window) {
   'use strict';
 
   if (typeof $window.adobeDPS !== 'undefined') {
